@@ -3,20 +3,35 @@ node_modules/
 client/node_modules/
 server/node_modules/
 
-# Environment variables (never commit real secrets)
+# Environment variables - never commit secrets
 .env
+.env.*
+!.env.example
 server/.env
 client/.env
 
 # Build output
+dist/
+build/
 client/dist/
 client/build/
 
+# Vite
+.vite/
+client/.vite/
+vite.config.js.timestamp-*
+
 # Logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-*.log
+lerna-debug.log*
+
+# Coverage
+coverage/
+.nyc_output/
+*.lcov
 
 # OS files
 .DS_Store
@@ -25,3 +40,33 @@ Thumbs.db
 # Editor folders
 .vscode/
 .idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# npm
+.npm/
+
+# Yarn
+.yarn/
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+.yarn-integrity
+
+# Package archives
+*.tgz
+
+# TypeScript
+*.tsbuildinfo
+
+# Framework/build caches
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
