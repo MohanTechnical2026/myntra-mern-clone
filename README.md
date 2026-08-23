@@ -133,3 +133,36 @@ myntra-mern-clone/
 ├── .gitignore
 ├── package.json
 └── README.md
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+### 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+### 📝 Register Page
+
+![Register Page](screenshots/register.png)
+
+### 🛍️ Product Category Page
+
+![Product Category Page](screenshots/product_category.png)
+
+### 📦 Product Detail Page
+
+![Product Detail Page](screenshots/product_detail.png)
+
+### 🛒 Shopping Cart
+
+![Shopping Cart](screenshots/cart.png)
+
+### ❤️ Wishlist
+
+![Wishlist](screenshots/wishlist.png)
+
+### 👤 User Profile
+
+![User Profile](screenshots/profile.png)
