@@ -150,7 +150,7 @@ myntra-mern-clone/
 ├── package.json
 └── README.md
 
----
+```
 
 ## 📸 Application Screenshots
 
