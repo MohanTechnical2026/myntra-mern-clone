@@ -9,6 +9,7 @@ A full-stack e-commerce web application inspired by modern fashion e-commerce pl
 ## 🚀 Features
 
 ### User Authentication
+
 - User registration
 - User login and logout
 - JWT-based authentication
@@ -18,6 +19,7 @@ A full-stack e-commerce web application inspired by modern fashion e-commerce pl
 - Address management
 
 ### Product Management
+
 - Product listing
 - Product details
 - Product categories
@@ -33,6 +35,7 @@ A full-stack e-commerce web application inspired by modern fashion e-commerce pl
   - Discount
 
 ### Shopping Cart
+
 - Add products to cart
 - Update product quantity
 - Remove products from cart
@@ -40,12 +43,14 @@ A full-stack e-commerce web application inspired by modern fashion e-commerce pl
 - Protected cart operations
 
 ### Wishlist
+
 - Add products to wishlist
 - Remove products from wishlist
 - View wishlist
 - Protected wishlist operations
 
 ### Orders
+
 - Checkout
 - Create orders
 - View order history
@@ -53,6 +58,7 @@ A full-stack e-commerce web application inspired by modern fashion e-commerce pl
 - Automatically clear cart after successful order
 
 ### UI
+
 - Responsive design
 - Product cards
 - Product gallery
@@ -130,9 +136,21 @@ myntra-mern-clone/
 │   ├── audio/
 │   └── videos/
 │
+├── screenshots/
+│   ├── home.png
+│   ├── login.png
+│   ├── register.png
+│   ├── product_category.png
+│   ├── product_detail.png
+│   ├── cart.png
+│   ├── wishlist.png
+│   └── profile.png
+│
 ├── .gitignore
 ├── package.json
 └── README.md
+
+---
 
 ## 📸 Application Screenshots
 
