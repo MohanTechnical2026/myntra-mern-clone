@@ -156,32 +156,32 @@ myntra-mern-clone/
 
 ### 🏠 Home Page
 
-<img src="./screenshots/home.png" alt="Home Page" width="100%">
+![Home Page](https://raw.githubusercontent.com/MohanTechnical2026/myntra-mern-clone/main/screenshots/home.png)
 
 ### 🔐 Login Page
 
-<img src="./screenshots/login.png" alt="Login Page" width="100%">
+![Login Page](https://raw.githubusercontent.com/MohanTechnical2026/myntra-mern-clone/main/screenshots/login.png)
 
 ### 📝 Register Page
 
-<img src="./screenshots/register.png" alt="Register Page" width="100%">
+![Register Page](https://raw.githubusercontent.com/MohanTechnical2026/myntra-mern-clone/main/screenshots/register.png)
 
 ### 🛍️ Product Category Page
 
-<img src="./screenshots/product_category.png" alt="Product Category Page" width="100%">
+![Product Category Page](https://raw.githubusercontent.com/MohanTechnical2026/myntra-mern-clone/main/screenshots/product_category.png)
 
 ### 📦 Product Detail Page
 
-<img src="./screenshots/product_detail.png" alt="Product Detail Page" width="100%">
+![Product Detail Page](https://raw.githubusercontent.com/MohanTechnical2026/myntra-mern-clone/main/screenshots/product_detail.png)
 
 ### 🛒 Cart Page
 
-<img src="./screenshots/cart.png" alt="Cart Page" width="100%">
+![Cart Page](https://raw.githubusercontent.com/MohanTechnical2026/myntra-mern-clone/main/screenshots/cart.png)
 
 ### ❤️ Wishlist Page
 
-<img src="./screenshots/wishlist.png" alt="Wishlist Page" width="100%">
+![Wishlist Page](https://raw.githubusercontent.com/MohanTechnical2026/myntra-mern-clone/main/screenshots/wishlist.png)
 
 ### 👤 Profile Page
 
-<img src="./screenshots/profile.png" alt="Profile Page" width="100%">
+![Profile Page](https://raw.githubusercontent.com/MohanTechnical2026/myntra-mern-clone/main/screenshots/profile.png)ofile Page" width="100%">
